@@ -17,9 +17,9 @@ TLS is a glut project that showcases traffic light simulation inside Thapar univ
                                    
 ![image](https://user-images.githubusercontent.com/70463425/181823884-507cd2aa-74e0-404d-ac22-6154bf8b0ce3.png)
   
-                                             Fig. 4 Traffic stopped on red light
+                                                Fig. 4 Traffic stopped on red light
                                     
                                     
 ![image](https://user-images.githubusercontent.com/70463425/181823904-3c2dbe97-ea19-4a68-834d-b23517704830.png)
   
-                                           Fig. 5 Traffic paused on yellow light
+                                              Fig. 5 Traffic paused on yellow light
